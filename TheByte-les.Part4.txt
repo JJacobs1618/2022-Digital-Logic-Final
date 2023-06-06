@@ -1,0 +1,51 @@
+=========================================================
+======== Surface Area and Volume of a Cylinder ==========
+Radius		=		    5 units
+Height		=		    7 units
+---------------------------------------------------------
+Surface Area	=		  376.80  units squared
+Volume		=		  549.50  units cubed
+=========================================================
+
+=========================================================
+=========== Area and Perimeter of a Triangle ===========
+Side Lengths	=	   86 units x    58 units x    53 units
+Perimeter	=	  197 units
+---------------------------------------------------------
+Base x Height Lengths	=          11 units x     5 units
+Area			=          27.50  units squared
+=========================================================
+
+
+=========================================================
+=========== Area and Perimeter of a Square ===========
+Side Length  =          21 units
+Perimeter     =          84 units
+Area          =         441 units squared
+=========================================================
+
+
+=========================================================
+=========== Area and Perimeter of a Rectangle ===========
+Side Lengths	=	  100 units x   612 units
+Perimeter	=	 1424 units
+Area		=	61200 units squared
+=========================================================
+
+
+=========================================================
+=========== Circumference and Area of a Circle ==========
+Radius		=	   13 units
+Circumference	=	   81.64  units
+Area		=	  530.66  units squared
+=========================================================
+
+
+=========================================================
+========== Surface Area and Volume of a Sphere ==========
+Radius		=	    3 units
+Surface Area	=	  113.4   units squared
+Volume		=	  113.4   units cubed
+=========================================================
+
+TheByte-les.part4.v:1150: $finish called at 1086 (1s)
